@@ -1,4 +1,6 @@
-# Krakenwsclient
+# Angular Kraken WebSocket Client
+
+A simple client for [Kraken WebSocket API](https://www.kraken.com/features/websocket-api) written in Angular 7.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.0.
 
